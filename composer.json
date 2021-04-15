@@ -1,5 +1,5 @@
 {
-  "name": "laravelhungary/laravel-barion",
+  "name": "cynolol/laravel-barion",
   "description": "Simple Laravel wrapper for the API of the Barion online payment system",
   "license": "MIT",
   "authors": [
